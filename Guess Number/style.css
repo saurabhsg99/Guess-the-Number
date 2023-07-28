@@ -1,0 +1,22 @@
+html {
+    font-family: sans-serif;
+    background: linear-gradient(to top right,#79a9f8 10%, #f2f2f2);
+    height: 100vh;
+
+}
+
+body {
+    width: 50%;
+    max-width: 80%;
+    min-width: 20%;
+    margin: 0 auto;
+}
+
+.form input[type="number"] {
+    width: 50%;
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
